@@ -32,16 +32,16 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://notsatos.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: notsatos             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: jsatos            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: jsatos
+  email: jserrato@usc.edu            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://cdn.artcld.com/img/w_1920,h_1920,c_fit/bf9knjhcrtn2h4pi6x5e.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
