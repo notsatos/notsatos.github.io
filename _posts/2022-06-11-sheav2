@@ -9,10 +9,10 @@ We will largely follow Rotman's and Hartshorne's treatment of sheaf cohomology a
 
 This is to say that, in a word, sheaf cohomology arises from the right derived functors of global sections. For the purposes of this discussion we will talk about sheaves over abelian groups, however, Hartshorne and a lot of others treat the cohomology of sheaves typically over category of modules.
 
-## 1. Sheaf Cohomology
-If $X$ is a topological space, the group of sections defines functors $\Gamma \colon \mathfrak{pSh} (X) \to \mathfrak{Ab}$ and $\Gamma \colon \mathfrak{Sh} (X) \to \mathfrak{Ab}$, but we will be more focused with $\mathfrak{Sh} ( \- )$. In either case, however, the functor $\Gamma$ is defined on objects $X$ by \\[ \Gamma \colon X \mapsto \Gamma (X, \mathscr{F}) = \mathscr{F} (U) \\]
+## 1. Injective Sheaves
+**Definition 1.0.1.** Let $X$ be a topological space. A sheaf $\mathscr I$ over $X$ is called **injective** if given an exact sequences of sheaves \\[ 0 \to \mathscr F \to \mathscr G\\] and a morphism $\mathscr F \to \mathscr I$, there exists a (not necessarily unique) morphism $\mathscr G \to \mathscr I$ making the following diagram commute:    
+<img src ="https://github.com/notsatos/imagesforsite/blob/main/Screen%20Shot%202022-07-07%20at%201.07.41%20AM-PhotoRoom.png?raw=true" width = "300">   
 
-**Proposition 1.1.** The functor $\Gamma \colon \mathfrak{Sh} (X) \to \mathfrak{Ab}$ is left exact in the sense that if \\[ 0 \to \mathscr{F} \to \mathscr{G} \to \mathscr{H} \\] is an exact sequence of sheaves, then \\[ 0 \to \Gamma (X, \mathscr{F}) \to \Gamma (X, \mathscr{G}) \to \Gamma (X, \mathscr{H}) \\] is an exact sequence of abelian groups. 
 
 ## Refrences
 
