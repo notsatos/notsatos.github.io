@@ -115,13 +115,15 @@ assets:
     env:          # [development|production]
 
 pwa:
-  enabled: true   # the option for PWA feature
+  enabled: true   # the option for PWA featureZ
 
 paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
+markdown: kramdown
 
 kramdown:
+  math_engine: mathjax
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
