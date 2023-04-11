@@ -4,4 +4,12 @@ icon: fas fa-info-circle
 order: 4
 math: true
 ---
-Currently an undergraduate student at USC (Junior/3rd year) interested in research surrounding algebraic geometry, arithmetic geometry, commutative algebra, and adjacent fields. As an example work, here's a (rough draft) preprint for a current paper being written about an analogue of Mumford's famous drawing of the spectrum of the polynomial ring of integers: <a href="https://notsatos.github.io/files/p_adic-spec-final_bnw.pdf">*On the prime spectrum of the p-adic integer polynomial ring with a depiction*</a>. Lastly, here is my <a href="https://notsatos.github.io/files/cv.pdf">CV</a>.
+Currently an undergraduate student at USC (Junior/3rd year) interested in research surrounding algebraic geometry, arithmetic geometry, commutative algebra, and adjacent fields. Here is my <a href="https://notsatos.github.io/files/cv.pdf">CV</a>.
+
+
+## Papers
+
+#### 1. *On the prime spectrum of the p-adic integer polynomial ring with a depiction* <a href="https://arxiv.org/abs/2304.03523v2">arXiv: 2304.03523</a>
+
+
+#### 2. *Baby Steps Towards Étale Cohomology*. (Written as a semester final project for a research class at USC during my second year; Math 490). <a href="https://notsatos.github.io/files/etale.pdf">Link</a>
