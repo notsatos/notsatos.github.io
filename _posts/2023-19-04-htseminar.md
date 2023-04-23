@@ -14,4 +14,6 @@ The seminar will follow a set of notes that are being written, but nothing is se
 A current set of notes (April 21st, 2023, so this is a very, very rough sketch of first steps): <a href="https://notsatos.github.io/files/homotopy_seminar.pdf">here</a>.
 
 
-Flyer:
+<a href="https://notsatos.github.io/files/ht_seminar_flyer.pdf">Flyer</a>: 
+
+<img style="float: right;" src="https://notsatos.github.io/files/flyer_image.png">
