@@ -2,7 +2,7 @@
 title: "USC Homotopy Theory Seminar"
 date: 2023-03-17 12:00:00 -800
 categories: [Homotopy]
-tags: [Homotopy, USC]
+tags: [Homotopy]
 math: true
 ---
 
