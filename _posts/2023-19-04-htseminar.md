@@ -16,4 +16,4 @@ A current set of notes (April 21st, 2023, so this is a very, very rough sketch o
 
 Flyer: 
 
-<embed src="ht_seminar_flyer.pdf" width="800px" height="2100px" />
+<embed src="https://notsatos.github.io/files/ht_seminar_flyer.pdf" width="800px" height="2100px" />
