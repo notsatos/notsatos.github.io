@@ -11,4 +11,4 @@ This is a very incomplete webpage that will be used as a webpage for a homotopy 
 The seminar will follow a set of notes that are being written, but nothing is set in stone as of now. Further details about the seminar will be provided leading up to the Fall semester of 2023, and this webpage will be frequently updated.
 
 
-A current set of notes is here (April 21st, 2023, so this is a very, very rough sketch of first steps): <a href="https://notsatos.github.io/files/homotopy_seminar.pdf">here</a>...
+A current set of notes (April 21st, 2023, so this is a very, very rough sketch of first steps): <a href="https://notsatos.github.io/files/homotopy_seminar.pdf">here</a>.
