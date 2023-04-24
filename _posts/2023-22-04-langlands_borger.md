@@ -11,12 +11,12 @@ As a short preface, this is an attempted translation of the paper written by Lau
 
 ____
 
-## The p-Adic Local Langlands Correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$.
+# The p-Adic Local Langlands Correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$
 
 Abstract. The $p$-adic local Langlands correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$ is a bijection between some $2$-dimensional representations of $\operatorname{Gal}(\overline{ \mathbf Q_p}, \mathbf Q_p)$ and some representations of $\operatorname{GL}_2 (\mathbf Q_p)$. This bijection can in fact be constructed using the theory of $(\varphi, \Gamma)$-modules and some results of $p$-adic analysis. One then deduces from the properties of this construction some interesting arithmetical applications.
 
 
-### Introduction. 
+## Introduction. 
 
 The $p$-adic local Langlands correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$ is a bijection between some $2$-dimensional representations of $\operatorname{Gal}(\overline{ \mathbf Q_p}, \mathbf Q_p)$ and some representations of $\operatorname{GL}_2 (\mathbf Q_p)$. These representations are with coefficients either in a finite extension of $\mathbf F_p$ (correspondence in characteristic $p$), or in a finite extension of $\mathbf Q_p$(correspondence $p$-adic).
 
@@ -30,4 +30,13 @@ In section $\S5$, we give some applications of the correspondence, including
 
 1. the calculation of the reduction modulo $p$ of the crystalline representations,
 
-2. the proof of (numerous cases of) the conjecture of Fontaine-Mazur
+2. the proof of (numerous cases of) the conjecture of Fontaine-Mazur.
+
+This text does not say much about the motivation of these constructions. Apart from the compatibility with the classical local Langlands correspondence, a very important property of the p-adic correspondence is its realization in the complete cohomology of the towers of modular curves (work in progress). Finally, the extension of these constructions to groups other than $\operatorname{GL}_2(\mathbf Q_p)$ is particularly delicate and is the subject of numerous works in progress, of which it would be premature to speak of (see [Bre10]).
+
+### **Notations** 
+Throughout this text, $E$ designates a finite extension of $\mathbf Q_p$ for which we write $\mathcal O_E$ for its ring of integers, $\mathfrak m_E$ the maximal ideal of $\mathcal O_E$ and $k_E$ its residue field. The fields $E$ and $k_E$ are the fields of coefficients of representations that we consider.  
+
+Class field theory provides an application $\mathbf Q_p^\times \to \operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)^{\operatorname{ab}}$ whose image is dense and that we normalize by deciding that the image of $p$ is the geometric frobenius. This application premits us to consider the characters of $\mathbf Q_p^\times$ with values in $E^\times$ or $k_E^\times$ as characters of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)^{\operatorname{ab}}$. We denote $\mu_\lambda$ the character of $\mathbf Q_p^\times$ which is unramified (that is trivial on $\mathbf Z_p^\times$) and which sebd $p$ to $\lambda$ and we note $|\cdot |$ the character $x \mapsto x^{-\operatorname{val}_p(x)}$ where $\operatorname{val}_p(p)=1$.
+
+## 1. Representations in characteristic $p$
