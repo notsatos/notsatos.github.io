@@ -22,10 +22,12 @@ The $p$-adic local Langlands correspondence for $\operatorname{GL}_2 (\mathbf Q_
 
 In the case of the correspondence in characteristic $p$, we can make a list of objects on the side of $\operatorname{Gal}(\overline{ \mathbf Q_p}, \mathbf Q_p)$ as well as on the side of $\operatorname{GL}_2 (\mathbf Q_p)$ and this makes it possible to define a numerical bijection whose construction is given in $\S1$. In the case of the $p$-adic correspondence, we start by explaining how to sort through the representations of $\operatorname{Gal}(\overline{ \mathbf Q_p}, \mathbf Q_p)$ (Fontaine's theory) and in those of $\operatorname{GL}_2 (\mathbf Q_p)$ (representations "admissibles" in the sense of Schneider and Teitelbaum). In following, we give the first examples of the correspondence constructed by Breuil, which is the objective of $\S2$. It's by studying these examples that Colmez understood how to construct this correspondence in a functorial way, thanks to the theory of $(\varphi, \Gamma)$-modules. This construction is given in $\S3$ for the "triangular" representations. Section $\S4$ contains the general construction, as well as some properties of the correspondence.
 
-1. the compatibility with the reduction modulo $p$,
-2. link with the correspondence of the "classical" local Langlands.
+$1$. the compatibility with the reduction modulo $p$,
+
+$2$. link with the correspondence of the "classical" local Langlands.
 
 In section $\S5$, we give some applications of the correspondence, including
 
-1. the calculation of the reduction modulo $p$ of the crystalline representations,
-2. the proof of (numerous cases of) the conjecture of Fontaine-Mazur
+$1$. the calculation of the reduction modulo $p$ of the crystalline representations,
+
+$2.$ the proof of (numerous cases of) the conjecture of Fontaine-Mazur
