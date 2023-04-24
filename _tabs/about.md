@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 math: true
 ---
-Currently an undergraduate student at USC (Junior/3rd year) interested in research surrounding algebraic geometry, arithmetic geometry, commutative algebra, and adjacent fields. Here is my <a href="https://notsatos.github.io/files/cv.pdf">CV</a>.
+Currently an undergraduate student at USC (Junior/3rd year) interested in research surrounding algebraic geometry, arithmetic geometry, commutative algebra, and adjacent fields.
 
 
 ## Papers
