@@ -7,8 +7,6 @@ math: true
 ---
 
 As a short preface, this is an attempted translation of the paper written by Laurent Berger for the Bourbaki Seminar, N. 1017, which lays out, quite clearly, the $p$-adic local Langlands correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$. The original version is in French and is posted here: <a href="https://arxiv.org/abs/1002.4111">arXiv:1002.4111 </a>
-
-
 ____
 
 # The p-Adic Local Langlands Correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$
@@ -41,3 +39,5 @@ Throughout this text, $E$ designates a finite extension of $\mathbf Q_p$ for whi
 Class field theory provides an application $\mathbf Q_p ^\times \to \operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p) ^{\operatorname{ab}}$ whose image is dense and that we normalize by deciding that the image of $p$ is the geometric frobenius. This application premits us to consider the characters of $\mathbf Q_p ^\times$ with values in $E ^\times$ or $k_E ^\times$ as characters of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p) ^{\operatorname{ab}}$. We denote $\mu _\lambda$ the character of $\mathbf Q_p ^\times$ which is unramified (that is trivial on $\mathbf Z_p ^\times$) and which sends $p$ to $\lambda$ and we note $\mid \cdot \mid$ the character $x \mapsto x ^{-\operatorname{val}_p(x)}$ where $\operatorname{val}_p(p)=1$.
 
 ## 1. Representations in characteristic $p$
+
+In this section, we give the classification of representations of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)$ and of $\operatorname{GL}_2(\mathbf Q_p)$ in characteristic $p$, in order to define the correspondence in this case.
