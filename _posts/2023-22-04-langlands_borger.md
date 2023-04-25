@@ -41,3 +41,5 @@ Class field theory provides an application $\mathbf Q_p ^\times \to \operatornam
 ## 1. Representations in characteristic $p$
 
 In this section, we give the classification of representations of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)$ and of $\operatorname{GL}_2(\mathbf Q_p)$ in characteristic $p$, in order to define the correspondence in this case.
+
+### 1.1. Representations of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)$. 
