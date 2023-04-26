@@ -13,6 +13,8 @@ This is a very incomplete webpage that will be used as a webpage for a homotopy 
 The seminar will follow a set of notes that are being written, but nothing is set in stone as of now. Further details about the seminar will be provided leading up to the Fall semester of 2023, and this webpage will be frequently updated. A current set of notes (April 22nd, 2023, so this is a very, very rough sketch of first steps): <a href="https://notsatos.github.io/files/homotopy_seminar.pdf">here</a>.
 
 
+To recieve future (big) updates about the seminar, fill out this Google form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4d4yvxdqCZE1Ew0qs5bTwVWE8z4p4RVLpmeaO4mLdV3tVYw/viewform?usp=sf_link"> Sign up</a>. (Need to sign in with @usc.edu email address to sign up on the form)
+
 
 <a href="https://notsatos.github.io/files/ht_seminar_flyer.pdf">Flyer</a>:   
 
