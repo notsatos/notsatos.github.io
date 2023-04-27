@@ -46,7 +46,3 @@ In this section, we give the classification of representations of $\operatorname
 
 ### 1.1. Representations of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)$. 
 
-
-## Refrences
-
-[Bre10]  "The emerging p-adic Langlands programme", in preparation, ICM 2010.
