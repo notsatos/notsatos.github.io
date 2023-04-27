@@ -7,9 +7,9 @@ math: true
 ---
 
 As a short preface, this is an attempted translation of the paper written by Laurent Berger for the Bourbaki Seminar, N. 1017, which lays out, quite clearly, the $p$-adic local Langlands correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$. The original version is in French and is posted here: <a href="https://arxiv.org/abs/1002.4111">arXiv:1002.4111 </a>
-____
-
+___
 # The p-Adic Local Langlands Correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$
+
 
 Abstract. The $p$-adic local Langlands correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$ is a bijection between some $2$-dimensional representations of $\operatorname{Gal}(\overline{ \mathbf Q_p}, \mathbf Q_p)$ and some representations of $\operatorname{GL}_2 (\mathbf Q_p)$. This bijection can in fact be constructed using the theory of $(\varphi, \Gamma)$-modules and some results of $p$-adic analysis. One then deduces from the properties of this construction some interesting arithmetical applications.
 
