@@ -7,6 +7,8 @@ math: true
 ---
 
 As a short preface, this is an attempted translation of the paper written by Laurent Berger for the Bourbaki Seminar, N. 1017, which lays out, quite clearly, the $p$-adic local Langlands correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$. The original version is in French and is posted here: <a href="https://arxiv.org/abs/1002.4111">arXiv:1002.4111 </a>
+
+
 ___
 # The p-Adic Local Langlands Correspondence for $\operatorname{GL}_2 (\mathbf Q_p)$
 
@@ -43,3 +45,5 @@ Class field theory provides an application $\mathbf Q_p ^\times \to \operatornam
 In this section, we give the classification of representations of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)$ and of $\operatorname{GL}_2(\mathbf Q_p)$ in characteristic $p$, in order to define the correspondence in this case.
 
 ### 1.1. Representations of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)$. 
+
+Let $\mathbf Q_p^{\operatorname{nr}}$ be the maximal unramified extension of $\mathbf Q_p$ such that $\operatorname{Gal} (\overline{\mathbf Q_p}/\mathbf {Q}_p^{\operatorname{nr}})$ is the subgroup of the interia $\mathcal I_{\mathbf Q_p}$ of $\operatorname{Gal} (\overline{\mathbf Q_p}/\mathbf {Q}_p)$.
