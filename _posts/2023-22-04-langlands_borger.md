@@ -46,7 +46,7 @@ In this section, we give the classification of representations of $\operatorname
 
 ### 1.1. Representations of $\operatorname{Gal}(\overline{\mathbf Q_p}, \mathbf Q_p)$. 
 
-Let $\mathbf Q_p ^{\operatorname{nr}}$ be the maximal unramified extension of $\mathbf Q_p$ such that $\operatorname{Gal} (\overline{\mathbf Q_p}/\mathbf {Q}_p ^{\operatorname{nr}})$ is the subgroup of the interia $\mathcal I_{\mathbf Q_p}$ of $\operatorname{Gal} (\overline{\mathbf Q_p}/ \mathbf {Q}_p)$. If $n \geq 1$ and $d =p^n -1$, then 
+Let $\mathbf Q_p ^{ \operatorname{nr} }$ be the maximal unramified extension of $\mathbf Q_p$ such that $\operatorname{Gal} (\overline {\mathbf Q_p} / \mathbf {Q}_p ^{\operatorname{nr}} )$ is the subgroup of the interia $\mathcal I _{\mathbf Q_p}$ of $\operatorname{Gal} (\overline{\mathbf Q_p}/ \mathbf {Q}_p)$. If $n \geq 1$ and $d =p^n -1$, then 
 
 
 
