@@ -32,3 +32,9 @@ We have the following analog of the fundamental theorem of Galois theory:
 
 ## Definition of (topological) Galois Representation 
 For Galois representations, we want to consider only continuous maps $G_{\mathbf Q} \to \text{GL}_n (k)$ for $k$ a topological field, i.e. a field endowed with a topology which has addition, multiplication, and inversion as continuous map. The group $\text{GL}_n (k)$ will inherit the topology from being a subset of $k^{n^2}$. 
+
+*Definition* A *Galois representation* of dimension $n$ over a (topological) field $k$ is a continuous group homomorphism 
+
+$$\pi \colon G_{\mathbf Q} \to \text{GL}_n (k).$$
+
+If $k$ is an extension of $\mathbf Q_\ell$, we call $\pi$ an *$\ell$-adic Galois representation*.
