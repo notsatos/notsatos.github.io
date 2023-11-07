@@ -13,7 +13,7 @@ Firstly, $G_{\mathbf Q}$ can be thought of as a limit. We can consider the syste
 $$ \varprojlim _K \text{Gal} (K/\mathbf Q) =   (\sigma_K) \in \prod_{K}  \text{Gal} (K/\mathbf Q) \colon \sigma_L|_K = \sigma _K \, \text{for all $K \subset L$} $$ 
 
 
-Furthermore, we have $G_{\mathbf Q} \cong \varprojlim_{K} \text{Gal} (K/\mathbf Q)$ by the mapping $\theta \colon \sigma \mapsto \sigma|_K$. As we can equip each $\text{Gal}(K/\mathbf Q)$ is the discrete topology, then $G_{\mathbf Q}$ becomes a profinite group. From this general fact, we come to the conclusion that $G_{\mathbf Q}$ is compact and a totally disconnected topological group.
+Furthermore, we have $G_{\mathbf Q} \cong \varprojlim_{K} \text{Gal} (K/\mathbf Q)$ by the mapping $\theta \colon \sigma \mapsto \sigma | _K $. As we can equip each $\text{Gal}(K/\mathbf Q)$ is the discrete topology, then $G_{\mathbf Q}$ becomes a profinite group. From this general fact, we come to the conclusion that $G_{\mathbf Q}$ is compact and a totally disconnected topological group.
 
 Recall that a topological group is a group $G$ which has multiplication and inversion, i.e. $m \colon (a,b) \mapsto a\cdot b$ and $i \colon a \mapsto a^{-1}$,  continuous maps with respsect to the endowed of $G$. Also note here that in topological groups being open subgroup implies being a closed subgroup but not the other way around necessarily. 
 
@@ -34,3 +34,5 @@ For Galois representations, we want to consider only continuous maps $G_{\mathbf
 $$\pi \colon G_{\mathbf Q} \to \text{GL}_n (k).$$
 
 If $k$ is an extension of $\mathbf Q_\ell$, we call $\pi$ an *$\ell$-adic Galois representation*.
+
+Some dub this the most important Galois representation, called the *$\ell$-adic cycltomic character*, which goes as follows. Let $\omega_n = \{ \omega \in \overline{\mathbf Q}^\times \colon \omega^n = 1\}$. We have an isomorphism of $\text{Gal} (\mathbf Q(\omega_n)/\mathbf Q) \cong (\mathbf Z/n \mathbf Z)^\times$ given by $\theta  \colon \sigma \mapsto a$ whereby $\sigma(\zeta) =\zeta^a$ for any $\zeta \in \omega_n$. 
