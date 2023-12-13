@@ -17,5 +17,5 @@ So, for example, $0 \to \mathbb Z \to \mathbb Q \to \mathbb Q/\mathbb Z \to 0$ i
 
 $$ 0 \to \mathbb Z  \to \ast \to \mathbb Q / \mathbb Z \to 0$$ 
 
-to get an exact sequence (up to equivalence described)!
+to get an exact sequence (up to the equivalence described)!
 
