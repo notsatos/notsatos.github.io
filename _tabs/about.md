@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 4
 math: true
 ---
-
 Currently an undergraduate student at USC (Senior) interested in research surrounding arithmetic geometry, algebraic geometry, and commutative algebra. My complete CV is linked <a href="https://notsatos.github.io/files/CV-4.pdf">here</a>.
 ## Papers
 
