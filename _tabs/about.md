@@ -5,9 +5,7 @@ order: 4
 math: true
 ---
 
-Currently an undergraduate student at USC (Junior/3rd year) interested in research surrounding arithmetic geometry, algebraic geometry, commutative algebra, and adjacent fields.
-
-
+Currently an undergraduate student at USC (Senior) interested in research surrounding arithmetic geometry, algebraic geometry, and commutative algebra. My complete CV is linked <a href="https://notsatos.github.io/files/CV-4.pdf">here</a>.
 ## Papers
 
 1.  *On the prime spectrum of the p-adic integer polynomial ring with a depiction* <a href="https://arxiv.org/abs/2304.03523v2">arXiv: 2304.03523</a>
@@ -17,3 +15,5 @@ Currently an undergraduate student at USC (Junior/3rd year) interested in resear
 ## Misc.
 
 1. <a href="https://notsatos.github.io/files/vakil.pdf">Select solutions </a> to Ravi Vakil's *The Rising Sea: Foundations of Algebraic Geometry*
+
+2. Introduction to Anabelian Geometry. <a href="https://notsatos.github.io/files/Anabelian.pdf">PDF</a>
